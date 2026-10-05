@@ -1,0 +1,201 @@
+product,product_group,reporting_period,complaints_opened
+Current accounts,Banking and credit cards,2024_H1,492289
+Current accounts,Banking and credit cards,2024_H2,491172
+Current accounts,Banking and credit cards,2025_H1,541493
+Current accounts,Banking and credit cards,2025_H2,492149
+Credit cards,Banking and credit cards,2024_H1,222529
+Credit cards,Banking and credit cards,2024_H2,217160
+Credit cards,Banking and credit cards,2025_H1,211903
+Credit cards,Banking and credit cards,2025_H2,218456
+Motor & transport,Insurance & pure protection,2024_H1,276795
+Motor & transport,Insurance & pure protection,2024_H2,254788
+Motor & transport,Insurance & pure protection,2025_H1,234015
+Motor & transport,Insurance & pure protection,2025_H2,215708
+Other general insurance,Insurance & pure protection,2024_H1,118599
+Other general insurance,Insurance & pure protection,2024_H2,123916
+Other general insurance,Insurance & pure protection,2025_H1,113789
+Other general insurance,Insurance & pure protection,2025_H2,111903
+Property,Insurance & pure protection,2024_H1,100431
+Property,Insurance & pure protection,2024_H2,91892
+Property,Insurance & pure protection,2025_H1,94186
+Property,Insurance & pure protection,2025_H2,88851
+Savings (including ISAs),Banking and credit cards,2024_H1,83392
+Savings (including ISAs),Banking and credit cards,2024_H2,80592
+Savings (including ISAs),Banking and credit cards,2025_H1,89919
+Savings (including ISAs),Banking and credit cards,2025_H2,82465
+Medical/health,Insurance & pure protection,2024_H1,95886
+Medical/health,Insurance & pure protection,2024_H2,77075
+Medical/health,Insurance & pure protection,2025_H1,76182
+Medical/health,Insurance & pure protection,2025_H2,70619
+Warranty,Insurance & pure protection,2024_H1,53576
+Warranty,Insurance & pure protection,2024_H2,51530
+Warranty,Insurance & pure protection,2025_H1,65083
+Warranty,Insurance & pure protection,2025_H2,61571
+Other regulated home finance products,Home finance,2024_H1,70619
+Other regulated home finance products,Home finance,2024_H2,63670
+Other regulated home finance products,Home finance,2025_H1,60395
+Other regulated home finance products,Home finance,2025_H2,58073
+"Non-workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Decumulation & pensions,2024_H1,50831
+"Non-workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Decumulation & pensions,2024_H2,49383
+"Non-workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Decumulation & pensions,2025_H1,52395
+"Non-workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Decumulation & pensions,2025_H2,49094
+Travel,Insurance & pure protection,2024_H1,27551
+Travel,Insurance & pure protection,2024_H2,29280
+Travel,Insurance & pure protection,2025_H1,27813
+Travel,Insurance & pure protection,2025_H2,33199
+Overdrafts,Banking and credit cards,2024_H1,15586
+Overdrafts,Banking and credit cards,2024_H2,13290
+Overdrafts,Banking and credit cards,2025_H1,16188
+Overdrafts,Banking and credit cards,2025_H2,26456
+Whole of life/term assurance/critical illness,Insurance & pure protection,2024_H1,24674
+Whole of life/term assurance/critical illness,Insurance & pure protection,2024_H2,23622
+Whole of life/term assurance/critical illness,Insurance & pure protection,2025_H1,24950
+Whole of life/term assurance/critical illness,Insurance & pure protection,2025_H2,23955
+Other banking - Please provide details below,Banking and credit cards,2024_H1,22151
+Other banking - Please provide details below,Banking and credit cards,2024_H2,21404
+Other banking - Please provide details below,Banking and credit cards,2025_H1,24463
+Other banking - Please provide details below,Banking and credit cards,2025_H2,23166
+Pet,Insurance & pure protection,2024_H1,28019
+Pet,Insurance & pure protection,2024_H2,27748
+Pet,Insurance & pure protection,2025_H1,23764
+Pet,Insurance & pure protection,2025_H2,22902
+ISAs (where investment held),Investments,2024_H1,22737
+ISAs (where investment held),Investments,2024_H2,18483
+ISAs (where investment held),Investments,2025_H1,22022
+ISAs (where investment held),Investments,2025_H2,18462
+Assistance,Insurance & pure protection,2024_H1,18125
+Assistance,Insurance & pure protection,2024_H2,20370
+Assistance,Insurance & pure protection,2025_H1,18236
+Assistance,Insurance & pure protection,2025_H2,18313
+"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Decumulation & pensions,2024_H1,16341
+"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Decumulation & pensions,2024_H2,16413
+"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Decumulation & pensions,2025_H1,16860
+"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Decumulation & pensions,2025_H2,17516
+Packaged accounts,Banking and credit cards,2024_H1,15080
+Packaged accounts,Banking and credit cards,2024_H2,15959
+Packaged accounts,Banking and credit cards,2025_H1,15944
+Packaged accounts,Banking and credit cards,2025_H2,15065
+Other unregulated home finance products,Home finance,2024_H1,16759
+Other unregulated home finance products,Home finance,2024_H2,14738
+Other unregulated home finance products,Home finance,2025_H1,12128
+Other unregulated home finance products,Home finance,2025_H2,12110
+General insurance packaged multi products,Insurance & pure protection,2024_H1,14866
+General insurance packaged multi products,Insurance & pure protection,2024_H2,12203
+General insurance packaged multi products,Insurance & pure protection,2025_H1,13003
+General insurance packaged multi products,Insurance & pure protection,2025_H2,10707
+Investment bonds,Investments,2024_H1,10965
+Investment bonds,Investments,2024_H2,10056
+Investment bonds,Investments,2025_H1,9513
+Investment bonds,Investments,2025_H2,8918
+Platforms,Investments,2024_H1,9103
+Platforms,Investments,2024_H2,6405
+Platforms,Investments,2025_H1,7980
+Platforms,Investments,2025_H2,8845
+Other investment products/funds,Investments,2024_H1,7528
+Other investment products/funds,Investments,2024_H2,6620
+Other investment products/funds,Investments,2025_H1,7910
+Other investment products/funds,Investments,2025_H2,7862
+Annuities (including enhanced and impaired),Decumulation & pensions,2024_H1,9009
+Annuities (including enhanced and impaired),Decumulation & pensions,2024_H2,7500
+Annuities (including enhanced and impaired),Decumulation & pensions,2025_H1,7968
+Annuities (including enhanced and impaired),Decumulation & pensions,2025_H2,7684
+Drawdown and UFPLS,Decumulation & pensions,2024_H1,9037
+Drawdown and UFPLS,Decumulation & pensions,2024_H2,8232
+Drawdown and UFPLS,Decumulation & pensions,2025_H1,6751
+Drawdown and UFPLS,Decumulation & pensions,2025_H2,7506
+Trust based pensions (e.g. Occupational and DB),Decumulation & pensions,2024_H1,7414
+Trust based pensions (e.g. Occupational and DB),Decumulation & pensions,2024_H2,6466
+Trust based pensions (e.g. Occupational and DB),Decumulation & pensions,2025_H1,8977
+Trust based pensions (e.g. Occupational and DB),Decumulation & pensions,2025_H2,5201
+"Income protection and other accident, sickness and unemployment",Insurance & pure protection,2024_H1,4108
+"Income protection and other accident, sickness and unemployment",Insurance & pure protection,2024_H2,4528
+"Income protection and other accident, sickness and unemployment",Insurance & pure protection,2025_H1,4670
+"Income protection and other accident, sickness and unemployment",Insurance & pure protection,2025_H2,5122
+Unit trusts/OEICs,Investments,2024_H1,4496
+Unit trusts/OEICs,Investments,2024_H2,4086
+Unit trusts/OEICs,Investments,2025_H1,3588
+Unit trusts/OEICs,Investments,2025_H2,3401
+Second and subsequent charge,Home finance,2024_H1,3022
+Second and subsequent charge,Home finance,2024_H2,2639
+Second and subsequent charge,Home finance,2025_H1,3418
+Second and subsequent charge,Home finance,2025_H2,3097
+Equity release,Home finance,2024_H1,2201
+Equity release,Home finance,2024_H2,2328
+Equity release,Home finance,2025_H1,2111
+Equity release,Home finance,2025_H2,1969
+Endowments,Investments,2024_H1,3046
+Endowments,Investments,2024_H2,2562
+Endowments,Investments,2025_H1,2318
+Endowments,Investments,2025_H2,1789
+FX/CFD/Spreadbetting,Investments,2024_H1,1153
+FX/CFD/Spreadbetting,Investments,2024_H2,1052
+FX/CFD/Spreadbetting,Investments,2025_H1,1184
+FX/CFD/Spreadbetting,Investments,2025_H2,1331
+Protection packaged multi products,Insurance & pure protection,2024_H1,554
+Protection packaged multi products,Insurance & pure protection,2024_H2,788
+Protection packaged multi products,Insurance & pure protection,2025_H1,797
+Protection packaged multi products,Insurance & pure protection,2025_H2,1171
+Discretionary management services,Investments,2024_H1,1404
+Discretionary management services,Investments,2024_H2,1269
+Discretionary management services,Investments,2025_H1,1187
+Discretionary management services,Investments,2025_H2,951
+Non-discretionary management services,Investments,2024_H1,903
+Non-discretionary management services,Investments,2024_H2,854
+Non-discretionary management services,Investments,2025_H1,938
+Non-discretionary management services,Investments,2025_H2,937
+Other pure protection,Insurance & pure protection,2024_H1,466
+Other pure protection,Insurance & pure protection,2024_H2,440
+Other pure protection,Insurance & pure protection,2025_H1,544
+Other pure protection,Insurance & pure protection,2025_H2,798
+ETPs,Investments,2024_H1,303
+ETPs,Investments,2024_H2,389
+ETPs,Investments,2025_H1,464
+ETPs,Investments,2025_H2,605
+Payment protection insurance,Insurance & pure protection,2024_H1,882
+Payment protection insurance,Insurance & pure protection,2024_H2,558
+Payment protection insurance,Insurance & pure protection,2025_H1,603
+Payment protection insurance,Insurance & pure protection,2025_H2,551
+Decumulation packaged multi products,Decumulation & pensions,2024_H1,0
+Decumulation packaged multi products,Decumulation & pensions,2024_H2,501
+Decumulation packaged multi products,Decumulation & pensions,2025_H1,434
+Decumulation packaged multi products,Decumulation & pensions,2025_H2,520
+Impaired credit,Home finance,2024_H1,633
+Impaired credit,Home finance,2024_H2,561
+Impaired credit,Home finance,2025_H1,564
+Impaired credit,Home finance,2025_H2,409
+Investment trusts,Investments,2024_H1,508
+Investment trusts,Investments,2024_H2,415
+Investment trusts,Investments,2025_H1,444
+Investment trusts,Investments,2025_H2,353
+Crowdfunding / Peer to Peer,Investments,2024_H1,292
+Crowdfunding / Peer to Peer,Investments,2024_H2,306
+Crowdfunding / Peer to Peer,Investments,2025_H1,319
+Crowdfunding / Peer to Peer,Investments,2025_H2,268
+UCITS,Investments,2024_H1,187
+UCITS,Investments,2024_H2,209
+UCITS,Investments,2025_H1,246
+UCITS,Investments,2025_H2,252
+Structured products,Investments,2024_H1,131
+Structured products,Investments,2024_H2,152
+Structured products,Investments,2025_H1,94
+Structured products,Investments,2025_H2,235
+Other pensions,Decumulation & pensions,2024_H1,286
+Other pensions,Decumulation & pensions,2024_H2,537
+Other pensions,Decumulation & pensions,2025_H1,481
+Other pensions,Decumulation & pensions,2025_H2,196
+Investment packaged multi products,Investments,2024_H1,73
+Investment packaged multi products,Investments,2024_H2,115
+Investment packaged multi products,Investments,2025_H1,98
+Investment packaged multi products,Investments,2025_H2,71
+Other decumulation,Decumulation & pensions,2024_H1,29
+Other decumulation,Decumulation & pensions,2024_H2,33
+Other decumulation,Decumulation & pensions,2025_H1,61
+Other decumulation,Decumulation & pensions,2025_H2,49
+"Third way products (e.g. investment linked, variable, fixed term)",Decumulation & pensions,2024_H1,75
+"Third way products (e.g. investment linked, variable, fixed term)",Decumulation & pensions,2024_H2,67
+"Third way products (e.g. investment linked, variable, fixed term)",Decumulation & pensions,2025_H1,67
+"Third way products (e.g. investment linked, variable, fixed term)",Decumulation & pensions,2025_H2,48
+Pensions packaged multi products,Decumulation & pensions,2024_H1,22
+Pensions packaged multi products,Decumulation & pensions,2024_H2,41
+Pensions packaged multi products,Decumulation & pensions,2025_H1,41
+Pensions packaged multi products,Decumulation & pensions,2025_H2,30

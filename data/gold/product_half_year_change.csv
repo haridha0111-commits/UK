@@ -1,0 +1,51 @@
+product,product_group,prior_period,prior_complaints,latest_period,latest_complaints,absolute_change,percentage_change
+Structured products,Investments,2025_H1,94,2025_H2,235,141,150.0
+Overdrafts,Banking and credit cards,2025_H1,16188,2025_H2,26456,10268,63.43
+Other pensions,Decumulation & pensions,2025_H1,481,2025_H2,196,-285,-59.25
+Protection packaged multi products,Insurance & pure protection,2025_H1,797,2025_H2,1171,374,46.93
+Other pure protection,Insurance & pure protection,2025_H1,544,2025_H2,798,254,46.69
+Trust based pensions (e.g. Occupational and DB),Decumulation & pensions,2025_H1,8977,2025_H2,5201,-3776,-42.06
+ETPs,Investments,2025_H1,464,2025_H2,605,141,30.39
+"Third way products (e.g. investment linked, variable, fixed term)",Decumulation & pensions,2025_H1,67,2025_H2,48,-19,-28.36
+Investment packaged multi products,Investments,2025_H1,98,2025_H2,71,-27,-27.55
+Impaired credit,Home finance,2025_H1,564,2025_H2,409,-155,-27.48
+Pensions packaged multi products,Decumulation & pensions,2025_H1,41,2025_H2,30,-11,-26.83
+Endowments,Investments,2025_H1,2318,2025_H2,1789,-529,-22.82
+Investment trusts,Investments,2025_H1,444,2025_H2,353,-91,-20.5
+Discretionary management services,Investments,2025_H1,1187,2025_H2,951,-236,-19.88
+Decumulation packaged multi products,Decumulation & pensions,2025_H1,434,2025_H2,520,86,19.82
+Other decumulation,Decumulation & pensions,2025_H1,61,2025_H2,49,-12,-19.67
+Travel,Insurance & pure protection,2025_H1,27813,2025_H2,33199,5386,19.37
+General insurance packaged multi products,Insurance & pure protection,2025_H1,13003,2025_H2,10707,-2296,-17.66
+ISAs (where investment held),Investments,2025_H1,22022,2025_H2,18462,-3560,-16.17
+Crowdfunding / Peer to Peer,Investments,2025_H1,319,2025_H2,268,-51,-15.99
+FX/CFD/Spreadbetting,Investments,2025_H1,1184,2025_H2,1331,147,12.42
+Drawdown and UFPLS,Decumulation & pensions,2025_H1,6751,2025_H2,7506,755,11.18
+Platforms,Investments,2025_H1,7980,2025_H2,8845,865,10.84
+"Income protection and other accident, sickness and unemployment",Insurance & pure protection,2025_H1,4670,2025_H2,5122,452,9.68
+Second and subsequent charge,Home finance,2025_H1,3418,2025_H2,3097,-321,-9.39
+Current accounts,Banking and credit cards,2025_H1,541493,2025_H2,492149,-49344,-9.11
+Payment protection insurance,Insurance & pure protection,2025_H1,603,2025_H2,551,-52,-8.62
+Savings (including ISAs),Banking and credit cards,2025_H1,89919,2025_H2,82465,-7454,-8.29
+Motor & transport,Insurance & pure protection,2025_H1,234015,2025_H2,215708,-18307,-7.82
+Medical/health,Insurance & pure protection,2025_H1,76182,2025_H2,70619,-5563,-7.3
+Equity release,Home finance,2025_H1,2111,2025_H2,1969,-142,-6.73
+"Non-workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Decumulation & pensions,2025_H1,52395,2025_H2,49094,-3301,-6.3
+Investment bonds,Investments,2025_H1,9513,2025_H2,8918,-595,-6.25
+Property,Insurance & pure protection,2025_H1,94186,2025_H2,88851,-5335,-5.66
+Packaged accounts,Banking and credit cards,2025_H1,15944,2025_H2,15065,-879,-5.51
+Warranty,Insurance & pure protection,2025_H1,65083,2025_H2,61571,-3512,-5.4
+Other banking - Please provide details below,Banking and credit cards,2025_H1,24463,2025_H2,23166,-1297,-5.3
+Unit trusts/OEICs,Investments,2025_H1,3588,2025_H2,3401,-187,-5.21
+Whole of life/term assurance/critical illness,Insurance & pure protection,2025_H1,24950,2025_H2,23955,-995,-3.99
+"Workplace personal pensions (e.g. SIPPs, SHPs, PPPs)",Decumulation & pensions,2025_H1,16860,2025_H2,17516,656,3.89
+Other regulated home finance products,Home finance,2025_H1,60395,2025_H2,58073,-2322,-3.84
+Pet,Insurance & pure protection,2025_H1,23764,2025_H2,22902,-862,-3.63
+Annuities (including enhanced and impaired),Decumulation & pensions,2025_H1,7968,2025_H2,7684,-284,-3.56
+Credit cards,Banking and credit cards,2025_H1,211903,2025_H2,218456,6553,3.09
+UCITS,Investments,2025_H1,246,2025_H2,252,6,2.44
+Other general insurance,Insurance & pure protection,2025_H1,113789,2025_H2,111903,-1886,-1.66
+Other investment products/funds,Investments,2025_H1,7910,2025_H2,7862,-48,-0.61
+Assistance,Insurance & pure protection,2025_H1,18236,2025_H2,18313,77,0.42
+Other unregulated home finance products,Home finance,2025_H1,12128,2025_H2,12110,-18,-0.15
+Non-discretionary management services,Investments,2025_H1,938,2025_H2,937,-1,-0.11

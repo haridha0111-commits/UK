@@ -1,0 +1,67 @@
+{
+  "status": "PASS",
+  "run_timestamp_utc": "2026-09-02T16:11:09+00:00",
+  "source_publication": "FCA Aggregate complaints data: 2025 H2",
+  "source_snapshot": "Published values transcribed into the bundled source CSV files; see data/source/README-source.md",
+  "checks": [
+    {
+      "name": "source_sha256_matches_manifest",
+      "status": "PASS",
+      "files_checked": 3
+    },
+    {
+      "name": "product_row_count",
+      "status": "PASS",
+      "rows": 50
+    },
+    {
+      "name": "context_row_count",
+      "status": "PASS",
+      "rows": 49
+    },
+    {
+      "name": "market_period_count",
+      "status": "PASS",
+      "rows": 4
+    },
+    {
+      "name": "product_period_counts_nonnegative",
+      "status": "PASS",
+      "rows": 200
+    },
+    {
+      "name": "closure_bands_sum_to_100pct",
+      "status": "PASS",
+      "periods": 4
+    },
+    {
+      "name": "null_context_values_preserved",
+      "status": "PASS",
+      "null_cells": 9
+    }
+  ],
+  "source_files": [
+    {
+      "file": "fca_product_complaints.csv",
+      "sha256": "4fcd2b3abfde4aac7b2e289297feafd04b0e10b964348ab3d6a8846c518f38a4",
+      "matches_manifest": true
+    },
+    {
+      "file": "fca_product_complaints_context.csv",
+      "sha256": "ce71305c65621ff4cb1b2432a0ea10a076cae7ff698a82e15beb020f16448bf7",
+      "matches_manifest": true
+    },
+    {
+      "file": "fca_market_complaints_summary.csv",
+      "sha256": "be97bce4d54ed49f228eac90ec511afce95e520dbcf3982da62a75a76345ab70",
+      "matches_manifest": true
+    }
+  ],
+  "outputs": [
+    "data/bronze/fca_publication_2025_h2_2c6d679ce516/",
+    "data/fabric.db",
+    "data/silver/",
+    "data/gold/"
+  ],
+  "note": "Market/product aggregates only; this run does not contain consumer-level complaint records or a live feed."
+}

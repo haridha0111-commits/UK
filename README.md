@@ -1,0 +1,68 @@
+# UK Data & AI Fabric Engineering Lab
+
+An interview-ready **data engineering fabric** portfolio project for a Data & AI Fabric Lead/Manager. It uses real FCA-published UK complaints aggregates to demonstrate source onboarding, reproducible ingestion, quality gates, layered data products, lineage, platform operations, and governed AI enablement.
+
+## Start here
+
+1. Open [`index.html`](index.html) for the platform prototype and current source snapshot.
+2. Read [`Project-Guide.md`](Project-Guide.md) for the A-to-Z project delivery walkthrough and interview narrative.
+3. Review [`Architecture.md`](Architecture.md) for the reference platform and local runnable scope.
+4. Run the standard-library-only pipeline: `python pipeline/run_pipeline.py`.
+5. Inspect [`pipeline/latest-run.json`](pipeline/latest-run.json), generated folders under `data/`, and [`sql/`](sql/).
+6. Read [`sources.md`](sources.md) and [`data/source/README-source.md`](data/source/README-source.md) for evidence, provenance, and interpretation limits.
+
+## Business problem
+
+Use a hypothetical UK retail bank that wants a repeatable, auditable way to onboard regulatory and operational data into reusable analytical products. As a consulting delivery team, we prototype the engineering fabric with FCA market aggregates: preserve source snapshots; validate them; standardise them into queryable layers; retain lineage; publish reviewed outputs; and give approved AI tools evidence-bounded access.
+
+This is a portfolio scenario, **not** a real bank engagement, FCA system, vendor implementation, or endorsement. FCA market aggregates cannot reveal a particular bank's internal performance or customer experience.
+
+## Real data only
+
+The bundled business data comes from the FCA's official **Aggregate complaints data: 2025 H2** publication. These are actual product-category and market-level aggregate values transcribed from FCA published tables. The FCA updated H1/H2 2025 figures on 15 May 2026 after investigating a reporting anomaly. The snapshot, extraction date, SHA-256 values, licence, table grain, and caveats are preserved in the source manifest and notes. No synthetic business records are present.
+
+The publication is semi-annual. This project demonstrates a scheduled/batch pattern against a periodic public source; it does not present itself as a real-time feed. Blank contextual-rate values remain null, and the product omitted from the FCA context table is not invented. The source has no consumer-level complaint records or narratives.
+
+## What is implemented locally
+
+- A runnable Python pipeline using only the Python standard library.
+- SHA-256 manifest verification before transformation.
+- Structural, key, count, nonnegative-value, period, and closure-band checks.
+- Byte-for-byte Bronze copies; long-form Silver CSVs; derived Gold tables; a local SQLite query database.
+- A JSON run report with evidence and failure reasons.
+- SQL examples, AI grounding/guardrail patterns, platform architecture, phases, and an interactive browser prototype.
+
+Run with Python 3.10 or later:
+
+```powershell
+python pipeline/run_pipeline.py
+```
+
+The runner rebuilds `data/bronze/`, `data/silver/`, `data/gold/`, and `data/fabric.db` from the bundled source snapshot. It exits non-zero if checksum or data-quality gates fail. The local SQLite database is a simple executable lab engine; it is **not** Apache Iceberg and does not claim to deploy NiFi, Trino, OpenMetadata, or production controls.
+
+## Target open-source fabric
+
+The target design composes Apache NiFi for controlled acquisition/provenance, object storage for open files, Apache Iceberg for governed lakehouse tables and snapshots, Trino for distributed SQL, OpenMetadata for catalog/ownership/lineage, and Superset for analyst access. The local lab intentionally has fewer dependencies. The guide marks integration and production hardening as delivery steps, rather than claiming these services have been provisioned.
+
+## AI enablement
+
+The project defines a staged AI pattern: a read-only assistant may retrieve approved table/metric definitions and query only Gold views; it must show period, source and query/metric lineage, cite returned evidence, disclose aggregate-data limits, and abstain when evidence is missing. The included AI prompt is a design artifact, not a connected or trained model. No model execution or AI-generated result is claimed.
+
+## Project map
+
+| Path | Purpose |
+|---|---|
+| `index.html` | Interactive fabric engineering prototype |
+| `Project-Guide.md` | Case brief, A-to-Z phases, role expectations, interview story |
+| `Architecture.md` | Local MVP and enterprise target architecture |
+| `sources.md` | Official data, licence, software and UK context sources |
+| `data/source/` | Real FCA aggregates, extraction manifest, data semantics |
+| `pipeline/run_pipeline.py` | Reproducible standard-library batch pipeline |
+| `pipeline/latest-run.json` | Run evidence, generated by the pipeline |
+| `sql/` | Reviewable source and Gold query examples |
+| `ai/` | Safe AI assistant design and evidence-bound prompt |
+| `phases/phase-checklist.md` | Phase gates, deliverables and operating controls |
+
+## Important boundary
+
+This is a realistic portfolio demonstrator. It is not an FCA or bank platform, client case study, compliance opinion, live integration, production service-level commitment, or proof of any named vendor's implementation. Validate current source terms, software versions, security design, and regulatory applicability before adapting it for an organisation.
